@@ -7,3 +7,5 @@ Welcome to our 2048 clone game project! This game is a terminal-based implementa
 - Use the arrow keys (up, down, left, right) to move the tiles in the corresponding direction.
 - Tiles with the same value will merge when moved into each other.
 - The goal is to reach the 2048 tile by merging smaller tiles.
+
+https://github.com/jdou10/2048/tree/main
