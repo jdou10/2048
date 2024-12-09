@@ -43,8 +43,6 @@ getDataFileName name = do
 getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: IO FilePath
 
 
-
-
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 bindir     = "/Users/xiaolongbao/.cabal/bin"
 libdir     = "/Users/xiaolongbao/.cabal/lib/aarch64-osx-ghc-9.8.1/x2048-0.1.0.0-inplace-x2048"
