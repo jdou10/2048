@@ -364,7 +364,6 @@ moveRowUp row = mergedRow ++ replicate (length row - length mergedRow) 0
   where
     mergedRow = mergeRow $ filter (/= 0) row
 
-
 moveRowDown :: [Int] -> [Int]
 moveRowDown row = replicate (length row - length mergedRow) 0 ++ mergedRow
       where
