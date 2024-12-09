@@ -9,6 +9,7 @@ module PackageInfo_x2048 (
     homepage,
   ) where
 
+
 import Data.Version (Version(..))
 import Prelude
 
