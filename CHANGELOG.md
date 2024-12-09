@@ -4,10 +4,3 @@
 
 * First version. Basic logic of the game.
 
-## 0.1.1.1
-
-* Second version. Make the arrow keys move
-
-## 0.1.1.2
-
-* Third version. Implemented user interface.
