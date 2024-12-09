@@ -72,8 +72,6 @@ executable x2048
         gloss >= 1.13 && < 2,
         random
 
-
-
     -- Directories containing source files.
     hs-source-dirs:   app
 
